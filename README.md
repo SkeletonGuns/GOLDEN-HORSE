@@ -43,7 +43,7 @@ src/main/java/com/example/backendapp/
 ### Локальный запуск
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone [https://github.com/SkeletonGuns/golden-horse.git](https://github.com/SkeletonGuns/golden-horse.git)
+   git clone https://github.com/SkeletonGuns/golden-horse.git
    ```
 2. **Настройте application.properties:**
    ```properties
